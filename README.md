@@ -23,6 +23,27 @@ The following software was used to complete Project 2:
 
 • washington.csv
 
+# The Datasets
+The data is provided by Motivate, a bike share system provider for major cities in United States. In this Project, I will use the data to compare the system usage between three large cities: Cities, New York City and Washington. Random data for all three cities are provided for the first six months of 2017. The data files for all three cities contain the same six columns:
+
+• Start Time (e.g., 2017-01-01 00:07:57)
+
+• End Time (e.g., 2017-01-01 00:20:53)
+
+• Trip Duration (in seconds - e.g., 776)
+
+• Start Station (e.g., Broadway & Barry Ave)
+
+• End Station (e.g., Sedgwick St & North Ave)
+
+• User Type (Subscriber or Customer)
+
+Chicago and New York City also contain the following columns:
+
+• Gender
+
+• Birth year 
+
 ### Credits
 • Lessons provided by udacity in the Introduction to Data Science with Python helped build my knowledge to complete the project.
 
